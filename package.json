@@ -1,0 +1,20 @@
+{
+  "name": "backend-store_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzuIoso/backend-store_app.git"
+  },
+  "author": "Oscar Garcia Linares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzuIoso/backend-store_app/issues"
+  },
+  "homepage": "https://github.com/AzuIoso/backend-store_app#readme"
+}
